@@ -6,6 +6,8 @@ import bvm from "../../Assets/Projects/bvm.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import crud_redux from "../../Assets/Projects/crud_redux.png";
 import todo from "../../Assets/Projects/todo.png";
+import superreach from "../../Assets/Projects/superreach.png";
+
 import suicide from "../../Assets/Projects/suicide.png";
 import edly from "../../Assets/Projects/edly.png";
 
@@ -67,7 +69,7 @@ function Projects() {
 
          <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bvm}
+              imgPath={superreach}
               isBlog={false}
               title="Super Reach"
               description="SuperReach is a responsive website project that aims to provide a user-friendly and visually appealing experience across various devices and screen sizes. This project is designed to be accessible from desktop computers, tablets, and mobile phones."
