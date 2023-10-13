@@ -7,7 +7,6 @@ import emotion from "../../Assets/Projects/emotion.png";
 import crud_redux from "../../Assets/Projects/crud_redux.png";
 import todo from "../../Assets/Projects/todo.png";
 import superreach from "../../Assets/Projects/superreach.png";
-
 import suicide from "../../Assets/Projects/suicide.png";
 import edly from "../../Assets/Projects/edly.png";
 
