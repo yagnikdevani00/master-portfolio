@@ -49,8 +49,8 @@ function Projects() {
               isBlog={false}
               title="Crud Using Redux"
               description="The CRUD Using Redux project is a robust web application that leverages the power of Redux, a state management library for JavaScript, to implement Create, Read, Update, and Delete (CRUD) operations."
-              ghLink="https://github.com/soumyajit4419/Editor.io"
-              demoLink="https://editor.soumya-jit.tech/"              
+              ghLink="https://github.com/yagnikdevani00/crud-redux"
+              demoLink="https://crud-redux-three.vercel.app/"              
             />
           </Col>
 
@@ -60,8 +60,19 @@ function Projects() {
               isBlog={false}
               title="Bvm Admin Panel"
               description="The BVM Admin Panel for IT Company Management is a robust web application tailored to meet the unique needs of IT companies. This comprehensive platform serves as a centralized hub for managing employees, administrators, projects, and resources, fostering efficiency, collaboration, and informed decision-making within the organization."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
+              ghLink="https://github.com/ridhampansuriya2000/BVM-Management"
               demoLink="https://bvm-management.vercel.app/"
+            />
+          </Col>
+
+         <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={bvm}
+              isBlog={false}
+              title="Super Reach"
+              description="SuperReach is a responsive website project that aims to provide a user-friendly and visually appealing experience across various devices and screen sizes. This project is designed to be accessible from desktop computers, tablets, and mobile phones."
+              ghLink="https://github.com/yagnikdevani00/superreach"
+              demoLink="https://super-reach.vercel.app/"
             />
           </Col>
 
