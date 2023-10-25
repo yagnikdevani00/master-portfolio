@@ -28,7 +28,7 @@ function Projects() {
               isBlog={false}
               title="Todo List"
               description="The Simple To-Do List App is a straightforward yet powerful task management tool designed to help users organize their daily tasks and responsibilities. With an intuitive user interface, users can easily add, edit, and remove tasks, as well as mark them as completed."
-              ghLink="https://github.com/yagnikdevani00/todo-web"
+              ghLink="https://github.com/devaniyagnik/todo-web"
               demoLink="https://todo-web-six.vercel.app/"
             />
           </Col>
@@ -39,7 +39,7 @@ function Projects() {
               isBlog={false}
               title="Edly"
               description="The Responsively Designed Website is a modern web project that prioritizes an optimal user experience across various devices and screen sizes. With the ever-growing popularity of mobile devices, tablets, and desktops, creating a responsive website has become essential. "
-              ghLink="https://github.com/yagnikdevani00/responsive-website-html-css"
+              ghLink="https://github.com/devaniyagnik/responsive-website-html-css"
               demoLink="https://responsive-website-html-css-three.vercel.app/"
             />
           </Col>
@@ -50,7 +50,7 @@ function Projects() {
               isBlog={false}
               title="Crud Using Redux"
               description="The CRUD Using Redux project is a robust web application that leverages the power of Redux, a state management library for JavaScript, to implement Create, Read, Update, and Delete (CRUD) operations."
-              ghLink="https://github.com/yagnikdevani00/crud-redux"
+              ghLink="https://github.com/devaniyagnik/crud-redux"
               demoLink="https://crud-redux-three.vercel.app/"              
             />
           </Col>
@@ -72,7 +72,7 @@ function Projects() {
               isBlog={false}
               title="Super Reach"
               description="SuperReach is a responsive website project that aims to provide a user-friendly and visually appealing experience across various devices and screen sizes. This project is designed to be accessible from desktop computers, tablets, and mobile phones."
-              ghLink="https://github.com/yagnikdevani00/superreach"
+              ghLink="https://github.com/devaniyagnik/superreach"
               demoLink="https://super-reach.vercel.app/"
             />
           </Col>
