@@ -26,7 +26,7 @@ function Home2() {
               <br />
               <br />I am skilled in foundational programming languages like
               <i>
-                <b className="purple">  JavaScript,Php and Go. </b>
+                <b className="purple">  JavaScript. </b>
               </i>
               <br />
               <br />

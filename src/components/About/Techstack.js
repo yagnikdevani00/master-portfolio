@@ -52,12 +52,12 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
       </Col>
-      <Col xs={4} md={2} className="tech-icons">
+      {/* <Col xs={4} md={2} className="tech-icons">
         <DiMysql />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiPhp />
-      </Col>
+      </Col> */}
     </Row>
   );
 }
