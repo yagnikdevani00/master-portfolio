@@ -615,7 +615,10 @@ button:focus {
   padding-bottom: 50px;
   justify-content: center;
 }
-
+.resume1{
+  padding-top: 50px;
+  justify-content: center;
+}
 .resume-left {
   padding-right: 80px !important;
 }

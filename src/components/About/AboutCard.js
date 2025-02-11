@@ -13,8 +13,8 @@ function AboutCard() {
             <br /> I am a first year student pursuing an Integrated MSc
             in Information Technology. 
             <br />
-            Additionally, I am currently employed as a react developer at
-            <span className="purple">  Bvm Infotech. 
+            Additionally, I am currently employed as a full stack developer at
+            <span className="purple">  Antrix Infotech. 
             </span>
             <br />
             <br />

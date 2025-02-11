@@ -21,7 +21,7 @@ function Home2() {
             <p className="home-about-body">
               {/* I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️ */}
-              I'm a React.js developer who loves making websites that people enjoy using. With 1 years of hands-on experience in front-end development, I thrive on turning innovative ideas into elegant, responsive, and performant web applications.
+              I'm a Full stack developer who loves making websites that people enjoy using. With 4+ years of hands-on experience in Full stack development, I thrive on turning innovative ideas into elegant, responsive, and performant web applications.
               
               <br />
               <br />I am skilled in foundational programming languages like
@@ -46,7 +46,10 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React js</b>
+                <b className="purple"> React js,</b>
+                <b className="purple"> Next js,</b>
+                <b className="purple"> Node js,</b>
+                <b className="purple"> Sails js,</b>
               </i>
             </p>
           </Col>

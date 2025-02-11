@@ -6,22 +6,15 @@ import {
   DiReact,
   DiNodejs,
   DiMongodb,
-  DiMysql,
-  DiPython,
-  DiPhp,
   DiGit,
-  DiJava,
   DiHtml5,
   DiCss3,
   DiBootstrap,
 } from "react-icons/di";
 import {
-  SiRedis,
   SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
-  SiPostgresql,
   SiMui,
+  SiNextdotjs,
 } from "react-icons/si";
 import { TbBrandGolang } from "react-icons/tb";
 
@@ -52,12 +45,15 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <DiReact />
       </Col>
-      {/* <Col xs={4} md={2} className="tech-icons">
-        <DiMysql />
+      <Col xs={4} md={2} className="tech-icons">
+        <DiNodejs />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiPhp />
-      </Col> */}
+        <DiMongodb />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNextdotjs />
+      </Col>
     </Row>
   );
 }
