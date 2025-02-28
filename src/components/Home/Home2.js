@@ -21,7 +21,7 @@ function Home2() {
             <p className="home-about-body">
               {/* I fell in love with programming and I have at least learnt
               something, I think… 🤷‍♂️ */}
-              I'm a Full stack developer who loves making websites that people enjoy using. With 4+ years of hands-on experience in Full stack development, I thrive on turning innovative ideas into elegant, responsive, and performant web applications.
+              I'm a Full stack developer who loves making websites that people enjoy using. With 2+ years of hands-on experience in Full stack development, I thrive on turning innovative ideas into elegant, responsive, and performant web applications.
               
               <br />
               <br />I am skilled in foundational programming languages like
